@@ -4,7 +4,7 @@ Kullanımı Çok Basit Bir WinRAR Password Attack!
 İndirme Linki : 🔴 https://dosya.co/m2yxjivnmjwh/RelaX_WinRAR_Password_Attack.rar.html 🔴
 
 ## 🌐〢 Kurulum Videosu
-GELECEK
+https://streamable.com/8svwml
 
 ## ⚙️ 〢 Kullanım
 
