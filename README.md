@@ -26,6 +26,8 @@ Sizden 1 Veya 2 Yi Seçmenizi İstiyecek!
 ```
 Şifre Kırılırsa Şifre Kırıldı Diye Yeşil Renkli Bir Yazı Göreceksiniz!
 
+Şifre Kırılmazsa Kırmızı Renkli Bir Hata Mesajı Alacaksınız!
+
 Created By RelaX
 
 Creative Commons 2023-2024
