@@ -31,6 +31,8 @@ Sizden 1 Veya 2 Yi Seçmenizi İstiyecek!
 
 Şifre Kırılmazsa Kırmızı Renkli Bir Hata Mesajı Alacaksınız!
 
+DC: https://discord.gg/Xu5NkzCxZm
+
 Created By RelaX
 
 Creative Commons 2023-2024
