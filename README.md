@@ -31,6 +31,8 @@ Sizden 1 Veya 2 Yi Seçmenizi İstiyecek!
 
 Şifre Kırılmazsa Kırmızı Renkli Bir Hata Mesajı Alacaksınız!
 
+⛔⛔Eğitim Amaçlıdır, Sonunda Karşılaşacağınız Sorunlardan Tarafım Ve Ben Sorumlu Deilizdir Sorumluluk Tamamen Size Aittir!⛔⛔
+
 DC: https://discord.gg/Xu5NkzCxZm
 
 Created By RelaX
