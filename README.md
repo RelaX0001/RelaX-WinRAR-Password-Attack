@@ -3,7 +3,11 @@ Kullanımı Çok Basit Bir WinRAR Password Attack!
 
 ## ⚙️ 〢 Kullanım
 
-Uygulamayı Açın
+İlk Olarak Uygulamayı İndirin,
+
+[Uygulamayı İndir](https://github.com/RelaX0001/RelaX-WinRAR-Password-Attack/releases/download/RelaX_WinRAR_Password_Attack.exe/RelaX_WinRAR_Password_Attack.exe)
+
+Sonra Uygulamayı Açın.
 
 Ardından Sizden İstenen Kırılacak WinRAR Dosya Yolunu Girin:
 ```
